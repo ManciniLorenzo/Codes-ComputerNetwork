@@ -1,2 +1,2 @@
 # Codes-ComputerNetwork
-Homeworks and Exams from Computer Networks course of Computer Engineering at University of Padua
+Homeworks and Exams from the HTTP section of Computer Networks, Computer Engineering course at University of Padua
